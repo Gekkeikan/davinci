@@ -1,0 +1,2 @@
+# davinci
+chatgpt prompt
